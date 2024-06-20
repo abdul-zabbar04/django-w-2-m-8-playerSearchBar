@@ -1,0 +1,22 @@
+.search-box{
+    max-width: 500px;
+}
+.player-card{
+    width: 250px;
+    height: 450px;
+    box-shadow: 4px 4px 8px gray;
+    margin: 10px;
+    list-style: none;
+    text-align: center;
+    line-height: 24px;
+}
+#player-container{
+    width: 80%;
+}
+.cart{
+    width: 250px;
+    height: 250px;
+    box-shadow: 4px 4px 8px #675256;
+    margin: 10px;
+    text-align: center;
+}
